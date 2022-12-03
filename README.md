@@ -39,7 +39,7 @@ Some Scripts For DEEP LEARNING
 执行：`python coco2yolo.py --json_path $JSON_FILE_PATH --save_path $LABEL_SAVE_PATH`
 
 - `$JSON_FILE_PATH`是json文件的地址。
-- `$JSON_FILE_PATH`是输出目录（默认为工作目录下的`./labels`目录。
+- `$LABEL_SAVE_PATH`是输出目录（默认为工作目录下的`./labels`目录。
 
 
 ## zeroshot_retrieval_evaluation.ipynb
